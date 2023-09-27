@@ -2,7 +2,7 @@
   "profiles": {
     "FunctionApp1": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7247",
+      "commandLineArgs": "--port 7000",
       "launchBrowser": false
     }
   }
